@@ -33,7 +33,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-    <Head title="Inicio" />
+    <Head title="Home" />
     <MainLayout>
         <div class="relative w-full h-[90vh] max-w-full mx-auto overflow-hidden">
             <div class="flex transition-transform duration-700 ease-in-out h-full"
